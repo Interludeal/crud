@@ -7,12 +7,6 @@ export default function Homepage() {
       <h1 className="text-3xl font-bold">WebDev Topics</h1>
       <p className="mb-4">MongoDB CURD Example</p>
       <TopicList />
-      <TopicList />
-      <TopicList />
-      <TopicList />
-      <TopicList />
-      <TopicList />
-      <TopicList />
     </div>
   )
 }
